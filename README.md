@@ -1,0 +1,2 @@
+# BackTraderCN_cryptocurrency
+全球虚拟货币高频交易辅助软件
